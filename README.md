@@ -15,7 +15,7 @@
     | 苹果        | $1      |   6    |
     | 草莓        | $1      |   7    |
     
-    <table>
+    <table style="width: 100%">
         <thead>
             <tr>
                 <th style="width:30%">名称</th>
