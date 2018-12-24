@@ -14,7 +14,7 @@
         <th height=36 width=400>Kotlin</td>
         <th width=400>Java</td>
     </tr>
-    <tr height=27>
+    <tr height=27 text-align=center>
         <td height=27>Byte</td>
         <td >byte</td>
     </tr>
