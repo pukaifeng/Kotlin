@@ -15,15 +15,102 @@
     | 苹果        | $1      |   6    |
     | 草莓        | $1      |   7    |
     
-    <table style="width: 100%">
-        <thead>
-            <tr>
-                <th style="width:400px">名称</th>
-                <th style="width:400px">值</th>
-                <th style="width:400px">备注</th>
-            </tr>
-        </thead>
-        <tbody>
-           <!-- 省略 tbody 内容 -->
-        </tbody>
-    </table>
+   <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
+ collapse;table-layout:fixed;width:504pt'>
+ <col width=149 span=2 style='mso-width-source:userset;mso-width-alt:4768;
+ width:112pt'>
+ <col class=xl67 width=373 style='mso-width-source:userset;mso-width-alt:11936;
+ width:280pt'>
+ <tr height=36 style='mso-height-source:userset;height:27.0pt'>
+  <td height=36 class=xl65 width=149 style='height:27.0pt;width:112pt'>Kotlin</td>
+  <td class=xl65 width=149 style='width:112pt'>Java</td>
+  <td class=xl66 width=373 style='width:280pt'></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Byte</td>
+  <td class=xl65>byte</td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Short</td>
+  <td class=xl65>short</td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Int</td>
+  <td class=xl65>int</td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Long</td>
+  <td class=xl65>long</td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Float</td>
+  <td class=xl65>float</td>
+  <td class=xl68></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Double</td>
+  <td class=xl65>double</td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Char</td>
+  <td class=xl65>char</td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'>Boolean</td>
+  <td class=xl65>boolean</td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+  <td height=27 class=xl65 style='height:20.25pt'></td>
+  <td class=xl65></td>
+  <td class=xl66></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=149 style='width:112pt'></td>
+  <td width=149 style='width:112pt'></td>
+  <td width=373 style='width:280pt'></td>
+ </tr>
+ <![endif]>
+</table>
