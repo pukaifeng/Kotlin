@@ -8,9 +8,9 @@
     * DSL（领域特定语言） 可以针对不同领域自行扩展开发适合特定领域的语言。
     
 * Kotlin基本数据类型
-    
+ 
+<center>   
 <table>
-   <center>
     <tr height=36 align=center>
         <th height=36 width=400>Kotlin</td>
         <th width=400>Java</td>
@@ -47,5 +47,5 @@
         <td height=27>Boolean</td>
         <td>boolean</td>
     </tr>
-    </center>
 </table>
+</center>
