@@ -9,7 +9,7 @@
     
 * Kotlin基本数据类型
     
-<table>
+<table margin-left=40>
     <tr height=36 align=center>
         <th height=36 width=400>Kotlin</td>
         <th width=400>Java</td>
