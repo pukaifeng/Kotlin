@@ -14,3 +14,16 @@
     | 香蕉        | $1      |   5    |
     | 苹果        | $1      |   6    |
     | 草莓        | $1      |   7    |
+    
+    <table>
+        <thead>
+            <tr>
+                <th>名称</th>
+                <th>值</th>
+                <th>备注</th>
+            </tr>
+        </thead>
+        <tbody>
+           <!-- 省略 tbody 内容 -->
+        </tbody>
+    </table>
