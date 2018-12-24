@@ -91,26 +91,4 @@
   <td class=xl65></td>
   <td class=xl66></td>
  </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=149 style='width:112pt'></td>
-  <td width=149 style='width:112pt'></td>
-  <td width=373 style='width:280pt'></td>
- </tr>
- <![endif]>
 </table>
