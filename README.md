@@ -9,8 +9,7 @@
     
 * Kotlin基本数据类型
     
-   <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
- collapse;table-layout:fixed;width:504pt;text-align:center'>
+   <table>
  <tr height=36 style='mso-height-source:userset;height:27.0pt'>
   <th height=36 class=xl65 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
   <th class=xl65 width=400 style='width:112pt'>Java</td>
