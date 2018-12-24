@@ -12,8 +12,8 @@
    <table>
         <thead>
             <tr>
-                <th style="width:400">Kotlin</th>
-                <th style="width:400">Java</th>
+                <th style='width:400'>Kotlin</th>
+                <th style='width:400'>Java</th>
             </tr>
         </thead>
         <tbody>
