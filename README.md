@@ -9,11 +9,16 @@
     
 * Kotlin基本数据类型
 
-    | 数据类型| 占用字节|取值范围|
-    |    :----:   | :-----:   | :----: |
-    | 香蕉        | $1      |   5    |
-    | 苹果        | $1      |   6    |
-    | 草莓        | $1      |   7    |
+   <table>
+        <thead>
+            <tr>
+                <th style="width:400">Kotlin</th>
+                <th style="width:400">Java</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
     
    <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
  collapse;table-layout:fixed;width:504pt;text-align:center'>
