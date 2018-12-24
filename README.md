@@ -11,12 +11,12 @@
     
 <table>
     <tr height=36 style='mso-height-source:userset;height:27.0pt'>
-        <th height=36 class=xl65 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
-        <th class=xl65 width=400 style='width:112pt'>Java</td>
+        <th height=36 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
+        <th width=400 style='width:112pt'>Java</td>
     </tr>
     <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Byte</td>
-        <td class=xl65>byte</td>
+        <td height=27  style='height:20.25pt'>Byte</td>
+        <td >byte</td>
     </tr>
     <tr height=27 style='mso-height-source:userset;height:20.25pt'>
         <td height=27 class=xl65 style='height:20.25pt'>Short</td>
