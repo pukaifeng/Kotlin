@@ -22,8 +22,8 @@
  <col class=xl67 width=373 style='mso-width-source:userset;mso-width-alt:11936;
  width:280pt'>
  <tr height=36 style='mso-height-source:userset;height:27.0pt'>
-  <td height=36 class=xl65 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
-  <td class=xl65 width=400 style='width:112pt'>Java</td>
+  <th height=36 class=xl65 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
+  <th class=xl65 width=400 style='width:112pt'>Java</td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Byte</td>
