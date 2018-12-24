@@ -18,9 +18,9 @@
     <table>
         <thead>
             <tr>
-                <th>名称</th>
-                <th>值</th>
-                <th>备注</th>
+                <th style="width:30%">名称</th>
+                <th style="width:30%">值</th>
+                <th style="width:30%">备注</th>
             </tr>
         </thead>
         <tbody>
