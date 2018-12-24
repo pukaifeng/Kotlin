@@ -66,29 +66,4 @@
   <td class=xl65>boolean</td>
   <td class=xl66></td>
  </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'></td>
-  <td class=xl65></td>
-  <td class=xl66></td>
- </tr>
 </table>
