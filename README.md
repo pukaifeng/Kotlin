@@ -24,22 +24,18 @@
  <tr height=36 style='mso-height-source:userset;height:27.0pt'>
   <td height=36 class=xl65 width=149 style='height:27.0pt;width:112pt'>Kotlin</td>
   <td class=xl65 width=149 style='width:112pt'>Java</td>
-  <td class=xl66 width=373 style='width:280pt'></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Byte</td>
   <td class=xl65>byte</td>
-  <td class=xl66></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Short</td>
   <td class=xl65>short</td>
-  <td class=xl66></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Int</td>
   <td class=xl65>int</td>
-  <td class=xl66></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Long</td>
@@ -49,21 +45,17 @@
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Float</td>
   <td class=xl65>float</td>
-  <td class=xl68></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Double</td>
   <td class=xl65>double</td>
-  <td class=xl66></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Char</td>
   <td class=xl65>char</td>
-  <td class=xl66></td>
  </tr>
  <tr height=27 style='mso-height-source:userset;height:20.25pt'>
   <td height=27 class=xl65 style='height:20.25pt'>Boolean</td>
   <td class=xl65>boolean</td>
-  <td class=xl66></td>
  </tr>
 </table>
