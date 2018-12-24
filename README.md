@@ -18,9 +18,9 @@
     <table style="width: 100%">
         <thead>
             <tr>
-                <th style="width:30%">名称</th>
-                <th style="width:30%">值</th>
-                <th style="width:30%">备注</th>
+                <th style="width:400px">名称</th>
+                <th style="width:400px">值</th>
+                <th style="width:400px">备注</th>
             </tr>
         </thead>
         <tbody>
