@@ -9,7 +9,7 @@
     
 * Kotlin基本数据类型
  
-   <table>
+     <table>
        <tr height=36 align=center>
            <th height=36 width=400>Kotlin</td>
            <th width=400>Java</td>
@@ -46,4 +46,4 @@
            <td height=27>Boolean</td>
            <td>boolean</td>
        </tr>
-   </table>
+     </table>
