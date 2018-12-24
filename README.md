@@ -8,53 +8,9 @@
     * DSL（领域特定语言） 可以针对不同领域自行扩展开发适合特定领域的语言。
     
 * Kotlin基本数据类型
-
-   <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
- collapse;table-layout:fixed;width:504pt;text-align:center'>
-         <tr>
-             <th style='width:400pt'>Kotlin</th>
-             <th style='width:400pt'>Java</th>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-         <tr>
-            <td></td>
-            <td></td>
-         </tr>
-    </table>
     
    <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
  collapse;table-layout:fixed;width:504pt;text-align:center'>
- <col width=149 span=2 style='mso-width-source:userset;mso-width-alt:4768;
- width:112pt'>
- <col class=xl67 width=373 style='mso-width-source:userset;mso-width-alt:11936;
- width:280pt'>
  <tr height=36 style='mso-height-source:userset;height:27.0pt'>
   <th height=36 class=xl65 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
   <th class=xl65 width=400 style='width:112pt'>Java</td>
