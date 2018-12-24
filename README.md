@@ -9,15 +9,12 @@
     
 * Kotlin基本数据类型
 
-   <table>
-        <thead>
-            <tr>
-                <th style='width:400pt'>Kotlin</th>
-                <th style='width:400pt'>Java</th>
-            </tr>
-        </thead>
-        <tbody>
-        </tbody>
+   <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
+ collapse;table-layout:fixed;width:504pt;text-align:center'>
+         <tr>
+             <th style='width:400pt'>Kotlin</th>
+             <th style='width:400pt'>Java</th>
+         </tr>
     </table>
     
    <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
