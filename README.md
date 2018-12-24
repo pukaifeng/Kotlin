@@ -9,12 +9,12 @@
     
 * Kotlin基本数据类型
     
-<table>
+<table align=center>
     <tr height=36>
         <th height=36 width=400>Kotlin</td>
         <th width=400>Java</td>
     </tr>
-    <tr height=27 align=center>
+    <tr height=27>
         <td height=27>Byte</td>
         <td >byte</td>
     </tr>
