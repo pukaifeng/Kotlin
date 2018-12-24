@@ -9,42 +9,41 @@
     
 * Kotlin基本数据类型
     
-   <table>
- <tr height=36 style='mso-height-source:userset;height:27.0pt'>
-  <th height=36 class=xl65 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
-  <th class=xl65 width=400 style='width:112pt'>Java</td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Byte</td>
-  <td class=xl65>byte</td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Short</td>
-  <td class=xl65>short</td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Int</td>
-  <td class=xl65>int</td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Long</td>
-  <td class=xl65>long</td>
-  <td class=xl66></td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Float</td>
-  <td class=xl65>float</td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Double</td>
-  <td class=xl65>double</td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Char</td>
-  <td class=xl65>char</td>
- </tr>
- <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-  <td height=27 class=xl65 style='height:20.25pt'>Boolean</td>
-  <td class=xl65>boolean</td>
- </tr>
+<table>
+    <tr height=36 style='mso-height-source:userset;height:27.0pt'>
+        <th height=36 class=xl65 width=400 style='height:27.0pt;width:112pt'>Kotlin</td>
+        <th class=xl65 width=400 style='width:112pt'>Java</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Byte</td>
+        <td class=xl65>byte</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Short</td>
+        <td class=xl65>short</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Int</td>
+        <td class=xl65>int</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Long</td>
+        <td class=xl65>long</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Float</td>
+        <td class=xl65>float</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Double</td>
+        <td class=xl65>double</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Char</td>
+        <td class=xl65>char</td>
+    </tr>
+    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
+        <td height=27 class=xl65 style='height:20.25pt'>Boolean</td>
+        <td class=xl65>boolean</td>
+    </tr>
 </table>
