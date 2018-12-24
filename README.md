@@ -10,40 +10,40 @@
 * Kotlin基本数据类型
     
 <table>
-    <tr height=36 style='mso-height-source:userset;height:27.0pt'>
+    <tr height=36>
         <th height=36 width=400>Kotlin</td>
         <th width=400>Java</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27  style='height:20.25pt'>Byte</td>
+    <tr height=27>
+        <td height=27>Byte</td>
         <td >byte</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Short</td>
-        <td class=xl65>short</td>
+    <tr height=27>
+        <td height=27>Short</td>
+        <td>short</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Int</td>
-        <td class=xl65>int</td>
+    <tr height=27>
+        <td height=27>Int</td>
+        <td>int</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Long</td>
+    <tr height=27>
+        <td height=27>Long</td>
         <td class=xl65>long</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Float</td>
-        <td class=xl65>float</td>
+    <tr height=27>
+        <td height=27>Float</td>
+        <td>float</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Double</td>
-        <td class=xl65>double</td>
+    <tr height=27>
+        <td height=27>Double</td>
+        <td>double</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Char</td>
-        <td class=xl65>char</td>
+    <tr height=27>
+        <td height=27>Char</td>
+        <td>char</td>
     </tr>
-    <tr height=27 style='mso-height-source:userset;height:20.25pt'>
-        <td height=27 class=xl65 style='height:20.25pt'>Boolean</td>
-        <td class=xl65>boolean</td>
+    <tr height=27>
+        <td height=27>Boolean</td>
+        <td>boolean</td>
     </tr>
 </table>
