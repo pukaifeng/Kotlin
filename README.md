@@ -9,40 +9,40 @@
     
 * Kotlin基本数据类型
     
-<table align=center>
-    <tr height=36>
+<table>
+    <tr height=36 align=center>
         <th height=36 width=400>Kotlin</td>
         <th width=400>Java</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Byte</td>
         <td >byte</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Short</td>
         <td>short</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Int</td>
         <td>int</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Long</td>
         <td class=xl65>long</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Float</td>
         <td>float</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Double</td>
         <td>double</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Char</td>
         <td>char</td>
     </tr>
-    <tr height=27>
+    <tr height=27 align=center>
         <td height=27>Boolean</td>
         <td>boolean</td>
     </tr>
