@@ -16,7 +16,7 @@
     | 草莓        | $1      |   7    |
     
    <table border=0 cellpadding=0 cellspacing=0 width=671 style='border-collapse:
- collapse;table-layout:fixed;width:504pt'>
+ collapse;table-layout:fixed;width:504pt;text-align:center'>
  <col width=149 span=2 style='mso-width-source:userset;mso-width-alt:4768;
  width:112pt'>
  <col class=xl67 width=373 style='mso-width-source:userset;mso-width-alt:11936;
